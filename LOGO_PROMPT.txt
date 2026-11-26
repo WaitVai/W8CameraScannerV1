@@ -1,0 +1,200 @@
+🎨 LOGO/THUMBNAIL PROMPT FOR W8 CAMERA SCANNER
+
+=============================================================================
+VERSION 1: YouTube Thumbnail Style (Recommended)
+=============================================================================
+
+Create a professional cybersecurity YouTube thumbnail with a dark hacking theme:
+
+MAIN ELEMENTS:
+- Background: Dark gradient (black to deep blue/purple)
+- Central focus: CCTV camera icon with red warning indicators
+- Glowing green circuit board patterns in background
+- Matrix-style code falling in the background (subtle)
+
+TEXT ELEMENTS:
+- Top text: "কিভাবে সিসিটিভি ক্যামেরা হ্যাক করবেন Part 1" (Bengali, bold, white/cyan color)
+- Middle text: "HOW TO HACK CCTV CAMERA" (Large, bold, red/white gradient)
+- Bottom text: "W8 Camera Scanner V1" (Smaller, cyan color)
+- Side badge: "TERMUX SUPPORTED" in a badge/sticker style
+
+VISUAL EFFECTS:
+- Lens flare effects around the camera
+- Glowing neon outlines (cyan/red)
+- Digital scan lines overlay
+- Lock icons being broken/unlocked
+- Network connection lines between multiple camera icons
+
+STYLE:
+- Cyberpunk/hacking aesthetic
+- High contrast
+- Sharp, professional look
+- 16:9 aspect ratio (1920x1080)
+
+COLOR SCHEME:
+- Primary: Black (#000000)
+- Secondary: Cyan (#00FFFF)
+- Accent: Red (#FF0000)
+- Highlight: White (#FFFFFF)
+
+=============================================================================
+VERSION 2: Logo Style (GitHub Repository)
+=============================================================================
+
+Create a modern tech logo for a security scanner tool:
+
+DESIGN:
+- Circular or shield-shaped badge
+- Center: Stylized CCTV camera icon with scan lines
+- Outer ring: Text "W8 CAMERA SCANNER"
+- Color gradient: Blue to cyan with red accents
+- Clean, minimalist design
+- Transparent background
+
+TEXT:
+- "W8" in bold, modern font
+- "Camera Scanner V1" below
+- Tagline: "Multi-threaded Security Scanner"
+
+STYLE:
+- Flat design with subtle shadows
+- Professional and clean
+- Tech-inspired
+- 512x512 px (square)
+
+=============================================================================
+VERSION 3: Banner Style (GitHub Header)
+=============================================================================
+
+Create a wide banner for GitHub repository header:
+
+COMPOSITION:
+- Left side: CCTV camera icon with network nodes
+- Center: Large text "W8 CAMERA SCANNER"
+- Right side: Terminal window with scan results
+- Background: Dark gradient with circuit patterns
+
+TEXT ELEMENTS:
+- Main title: "W8 Camera Scanner V1"
+- Subtitle: "Advanced IP Range Scanner & Camera Detector"
+- Bengali text: "কিভাবে সিসিটিভি ক্যামেরা হ্যাক করবেন Part 1"
+- Features badges: "Multi-threaded | Termux | Python"
+
+DIMENSIONS:
+- 1280x640 px (GitHub banner ratio)
+- Dark theme compatible
+
+=============================================================================
+DETAILED PROMPT FOR AI IMAGE GENERATORS (Copy & Paste Ready)
+=============================================================================
+
+**PROMPT 1: YouTube Thumbnail**
+
+"Professional cybersecurity YouTube thumbnail, dark hacking aesthetic, CCTV security camera in center with red warning indicators, glowing cyan circuit board patterns, matrix-style falling code background, Bengali text at top 'কিভাবে সিসিটিভি ক্যামেরা হ্যাক করবেন Part 1', large English text 'HOW TO HACK CCTV CAMERA' in red and white gradient, bottom text 'W8 Camera Scanner V1' in cyan, network connection lines, digital scan overlay, lens flares, neon outlines, cyberpunk style, high contrast, 16:9 aspect ratio, professional design, dark blue to black gradient background, lock icons being unlocked, 'TERMUX SUPPORTED' badge"
+
+**PROMPT 2: Minimalist Logo**
+
+"Modern minimalist tech logo, circular badge design, stylized CCTV camera icon with scan lines in center, 'W8 CAMERA SCANNER' text in outer ring, blue to cyan gradient with red accents, clean flat design, subtle shadows, professional tech aesthetic, transparent background, square format 512x512, futuristic font, security scanner theme"
+
+**PROMPT 3: GitHub Banner**
+
+"Wide banner design for tech project, left: CCTV camera icon with network nodes, center: 'W8 CAMERA SCANNER' large text, right: terminal window with code, dark gradient background with circuit patterns, Bengali text 'কিভাবে সিসিটিভি ক্যামেরা হ্যাক করবেন Part 1', subtitle 'Advanced IP Range Scanner', feature badges 'Multi-threaded | Termux | Python', 1280x640 dimensions, professional cybersecurity design, cyan and red accents on black"
+
+=============================================================================
+ADDITIONAL ELEMENTS TO INCLUDE
+=============================================================================
+
+ICONS:
+- 🎯 Target/crosshair symbols
+- 🔓 Unlocked padlock
+- 📡 Signal waves
+- 💻 Terminal/command line
+- 🌐 Network globe
+- ⚡ Lightning bolt (for "fast scan")
+- 🔍 Magnifying glass
+
+EFFECTS:
+- Glitch effect (subtle)
+- Holographic overlay
+- Digital noise texture
+- Scan line animation effect
+- Glow/bloom lighting
+- Vignette darkening edges
+
+CAMERA DETAILS:
+- Dome/bullet style CCTV camera
+- Red recording light
+- Lens with reflection
+- Multiple cameras in background (blurred)
+- IP address numbers floating around
+
+=============================================================================
+TOOLS YOU CAN USE
+=============================================================================
+
+1. **DALL-E 3** (ChatGPT Plus)
+   - Use Prompt 1, 2, or 3 above
+   - Ask for specific style adjustments
+
+2. **Midjourney**
+   - Use --ar 16:9 for thumbnail
+   - Use --ar 1:1 for logo
+   - Add --v 6 for latest version
+
+3. **Canva** (Free/Pro)
+   - Use templates: "YouTube Thumbnail" or "Logo"
+   - Add elements manually
+   - Export as PNG with transparency
+
+4. **Photopea** (Free Photoshop Alternative)
+   - Create from scratch
+   - Use provided color scheme
+   - Add Bengali text using appropriate fonts
+
+5. **Leonardo.AI** (AI Generator)
+   - Use "Cinematic" or "Creative" preset
+   - Paste detailed prompt
+
+=============================================================================
+FONT RECOMMENDATIONS
+=============================================================================
+
+- **Title**: Rajdhani Bold, Orbitron, Exo 2
+- **Bengali Text**: Noto Sans Bengali, Hind Siliguri, Mukti
+- **Subtitle**: Roboto, Inter, Space Grotesk
+- **Code/Terminal**: Fira Code, JetBrains Mono, Source Code Pro
+
+=============================================================================
+COLOR CODES FOR REFERENCE
+=============================================================================
+
+Background:
+- Dark: #000000, #0a0a0a, #1a1a2e
+- Gradient: #0f0f1e to #16213e
+
+Primary Colors:
+- Cyan: #00FFFF, #00D9FF, #00B8D4
+- Red: #FF0000, #FF3333, #E63946
+- White: #FFFFFF, #F5F5F5
+- Green (matrix): #00FF00, #39FF14
+
+Accents:
+- Purple: #8B00FF, #9D00FF
+- Blue: #0066FF, #0080FF
+- Orange: #FF6B00, #FF8C00
+
+=============================================================================
+FINAL TIPS
+=============================================================================
+
+1. Keep text readable - use high contrast
+2. Bengali text should be clear and large enough
+3. Avoid too much clutter - focus on main message
+4. Test thumbnail at small size (it should still be clear)
+5. Make sure the camera is the focal point
+6. Use consistent branding (W8 colors/style)
+7. Add shadow/glow to text for readability
+8. Export in high resolution (at least 1920x1080)
+
+=============================================================================
+
